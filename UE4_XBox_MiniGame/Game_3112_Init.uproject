@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CF2E41DC-4871-8598-C999-9BBF28F12F37}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Game_3112_Init",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
